@@ -1,0 +1,7 @@
+//"# Leva-Script" 
+// comment
+/*
+MULTILINE
+COMMENT
+*/
+use "time" // librayry
